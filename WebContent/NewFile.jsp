@@ -7,6 +7,7 @@
 <title>NewFile.jsp</title>
 </head>
 <body>
+정영욱 
     <h2>깃 테스트</h2>
     <h3>내용추가</h3>
 </body>
